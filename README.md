@@ -44,7 +44,7 @@ Projects and exercises created while learning Object-Oriented Programming with P
 Projects involving ERD, SQL, CRUD, relational database design, and MySQL.
 
 ### 🌐 Web Development
-Web projects exploring frontend, backend, and database integration.
+Web projects exploring frontend and database integration.
 
 ---
 
