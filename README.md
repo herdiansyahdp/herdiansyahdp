@@ -87,9 +87,9 @@ Development
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-herdiansyahdp-181717?style=for-the-badge&logo=github)](https://github.com/herdiansyahdp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Herdiansyah%20Dwi%20Putra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Herdiansyah%20Dwi%20Putra)
-[![Instagram](https://img.shields.io/badge/Instagram-%40eldks__27-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eldks_27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/herdiansyahdp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Herdiansyah%20Dwi%20Putra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eldks_27)
 
 ---
 
