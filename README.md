@@ -77,6 +77,10 @@ Development
 
 ---
 
+## 🔥 GitHub Commit Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=herdiansyahdp&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herdiansyahdp&show_icons=true&theme=tokyonight&hide_border=true&v=2)
