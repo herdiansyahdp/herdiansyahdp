@@ -95,9 +95,9 @@ Development
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herdiansyahdp&show_icons=true&theme=tokyonight&hide_border=true&v=2)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herdiansyahdp&layout=compact&theme=tokyonight&hide_border=true&v=3)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
