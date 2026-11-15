@@ -85,7 +85,6 @@ Development
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/herdiansyahdp/herdiansyahdp/output/galaga-contribution-graph.svg">
 </picture>
 
-[Powered by pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
 ---
 
