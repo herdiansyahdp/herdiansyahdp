@@ -1,10 +1,25 @@
-# Hi 👋, I'm Herdiansyah Dwi Putra
+<div align="center">
 
-### 🎓 Informatics Engineering Student | 💻 Student Developer
+  <img
+    src="./assets/profile-header.svg"
+    width="100%"
+    alt="Herdiansyah Dwi Putra — Informatics Engineering Student"
+  />
 
-I'm an Informatics Engineering student interested in building software, learning computer science fundamentals, and turning ideas into practical projects.
+  <br/>
 
-I enjoy learning through hands-on projects and continuously improving my programming skills.
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=23&pause=1000&color=00ABC0&center=true&vCenter=true&width=850&height=65&lines=Aspiring+Software+Developer;Informatics+Engineering+Student;Python+%C2%B7+MySQL+%C2%B7+Web+Development;Building+projects+%C2%B7+learning+every+day+%F0%9F%9A%80"
+      alt="Animated introduction"
+    />
+  </a>
+
+</div>
+
+<p align="center">
+  Learning by building practical projects and strengthening my software development fundamentals.
+</p>
 
 ---
 
