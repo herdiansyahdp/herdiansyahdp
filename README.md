@@ -9,7 +9,7 @@
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=23&pause=1000&color=00ABC0&center=true&vCenter=true&width=850&height=65&lines=SInformatics+Engineering+Student;Python+%C2%B7+MySQL+%C2%B7+Web+Development;Building+projects+%C2%B7+learning+every+day+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=23&pause=1000&color=00ABC0&center=true&vCenter=true&width=850&height=65&lines=Informatics+Engineering+Student;Python+%C2%B7+MySQL+%C2%B7+Web+Development;Building+projects+%C2%B7+learning+every+day+%F0%9F%9A%80"
       alt="Animated introduction"
     />
   </a>
