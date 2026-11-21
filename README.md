@@ -1,12 +1,11 @@
 <div align="center">
 
+    <!-- Profile Hero Banner -->
   <img
-    src="./assets/profile-header.svg"
+    src="https://www.gitskins.com/api/readme-reference/hero?username=herdiansyahdp&theme=neon&role=Informatics%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&location=Indonesia&v=readme-reference-2"
     width="100%"
-    alt="Herdiansyah Dwi Putra — Informatics Engineering Student"
+    alt="Herdiansyah Dwi Putra profile banner"
   />
-
-  <br/>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
