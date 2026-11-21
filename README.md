@@ -1,6 +1,6 @@
 <div align="center">
 
-    <!-- Profile Hero Banner -->
+<!-- Profile Hero Banner -->
   <img
     src="https://www.gitskins.com/api/readme-reference/hero?username=herdiansyahdp&theme=neon&role=Informatics%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&location=Indonesia&v=readme-reference-2"
     width="100%"
